@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "title": "Сноу-шу",
+    "vendor_code": "1",
+    "description": "очень милая",
+    "price": 150,
+    "img": "images/сноу-шу.jpg"
+
+  },
+  {
+    "id": "2",
+    "title": "Той-бобтейл",
+    "vendor_code": "2",
+    "description": "очень ласковая",
+    "price": 200,
+    "img": "images/той-бобтейл.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Шоколадный йорк",
+    "vendor_code": "3",
+    "description": "очень хорошая",
+    "price": 300,
+    "img": "avatar2.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Петерболд",
+    "vendor_code": "4",
+    "description": "мурлыкает громко",
+    "price": 1200,
+    "img": "images/петерболд.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Богемский рекс",
+    "vendor_code": "5",
+    "description": "добрая",
+    "price": 450,
+    "img": "images/богемский рекс.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Американская многолапая кошка",
+    "vendor_code": "6",
+    "description": "игривая",
+    "price": 700,
+    "img": "images/американская многолапая кошка.jpg"
+  }
+]
